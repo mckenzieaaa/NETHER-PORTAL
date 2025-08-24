@@ -16,6 +16,5 @@ dengdai.ino – Arduino sketch for handling sensor signals and sending them to t
 main.toe – The main TouchDesigner project, processing inputs from mouse and keyboard to generate real-time visual effects.
 
 ## How to Run
-(Optional but shows professionalism)
 1.  Connect your Arduino Uno and upload the `dengdai.ino` sketch.
 2.  Open the `main.toe` file in Touch Designer.
